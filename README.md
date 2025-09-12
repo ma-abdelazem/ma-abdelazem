@@ -25,6 +25,17 @@ Prayer times app with Adhan notifications and Qibla direction.
 
 - [🔗 View on GitHub](https://github.com/ma-abdelazem/azan-app-flutter)
 
+### 🕌 Gymier Platform
+A gym management system (attendance, subscriptions, and progress tracking).  
+- 📌 Flutter, Firebase, Firestore Sync, Hive Cache  
+- 📷 Screenshots:  
+
+<p float="left">
+  <img src="sections/gymier-platform/sign-in.png" width="500"/>
+  <img src="sections/gymier-platform/reg-requets.png" width="500"/>
+  <img src="sections/gymier-platform/reg-details.png" width="500"/>
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
