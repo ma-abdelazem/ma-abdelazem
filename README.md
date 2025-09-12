@@ -31,11 +31,11 @@ A gym management system (attendance, subscriptions, and progress tracking).
 - 📷 Screenshots:  
 
 <p float="left">
-  <img src="sections/gymier-platform/sign-in.png" width="250"/>
-  <img src="sections/gymier-platform/reg-requets.png" width="250"/>
+  <img src="sections/gymier-platform/sign-in.png" width="500"/>
 </p>
 <p float="left">
-  <img src="sections/gymier-platform/reg-details.png" width="250"/>
+  <img src="sections/gymier-platform/reg-requets.png" width="300"/>
+  <img src="sections/gymier-platform/reg-details.png" width="300"/>
 </p>
 
 ---
