@@ -30,14 +30,14 @@ A gym management system (attendance, subscriptions, and progress tracking).
   <img src="sections/gymier-gym/gymier-profile.png" width="100%"/>
 </p>
 <p float="left">
-  <img src="sections/gymier-gym/splash.png" width="33%"/>
-  <img src="sections/gymier-gym/dashboard.png" width="33%"/>
-  <img src="sections/gymier-gym/messages.png" width="33%"/>
+  <img src="sections/gymier-gym/splash.png" width="32%"/>
+  <img src="sections/gymier-gym/dashboard.png" width="32%"/>
+  <img src="sections/gymier-gym/messages.png" width="32%"/>
 </p>
 <p float="left">
-  <img src="sections/gymier-gym/subs.png" width="33%"/>
-  <img src="sections/gymier-gym/sub_manage_1.png" width="33%"/>
-  <img src="sections/gymier-gym/sub_manage_2.png" width="33%"/>
+  <img src="sections/gymier-gym/subs.png" width="32%"/>
+  <img src="sections/gymier-gym/sub_manage_1.png" width="32%"/>
+  <img src="sections/gymier-gym/sub_manage_2.png" width="32%"/>
 </p>
 
 ---
@@ -48,8 +48,8 @@ Prayer times app with Adhan notifications and Qibla direction.
 - 📷 Screenshots:  
 
 <p float="left">
-  <img src="sections/azan-app/home.png" width="33%"/>
-  <img src="sections/azan-app/azan-settings.png" width="33%"/>
+  <img src="sections/azan-app/home.png" width="32%"/>
+  <img src="sections/azan-app/azan-settings.png" width="32%"/>
 </p>
 
 - [🔗 View on GitHub](https://github.com/ma-abdelazem/azan-app-flutter)
