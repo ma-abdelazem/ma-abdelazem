@@ -6,7 +6,7 @@
 
 ## 🔥 Featured Projects
 
-### 🕌 Gymier Platform
+### Gymier Platform
 A gym management system (attendance, subscriptions, and progress tracking).  
 - 📌 Flutter, Firebase, Firestore Sync, Hive Cache  
 - 📷 Screenshots:  
@@ -21,7 +21,7 @@ A gym management system (attendance, subscriptions, and progress tracking).
 
 ---
 
-### 🕌 Gymier Gym
+### Gymier Gym
 A gym management system (attendance, subscriptions, and progress tracking).  
 - 📌 Flutter, Firebase, Firestore Sync, Hive Cache  
 - 📷 Screenshots:  
@@ -42,7 +42,7 @@ A gym management system (attendance, subscriptions, and progress tracking).
 
 ---
 
-### 🕌 Gymier Trainee
+### Gymier Trainee
 - 📷 Screenshots:  
 
 <p align="center">
@@ -53,7 +53,25 @@ A gym management system (attendance, subscriptions, and progress tracking).
 
 ---
 
-### 🕌 Azan App
+### E-commerce App
+Handmade products e-commerce app with order management and online payment integration.  
+- 📌 Flutter, Firebase, Firestore Sync, Hive Cache  
+- 📷 Screenshots:  
+
+<p align="center">
+  <img src="sections/E-commerce/home.png" width="32%"/>
+  <img src="sections/E-commerce/categories.png" width="32%"/>
+  <img src="sections/E-commerce/settings.png" width="32%"/>
+</p>
+<p align="center">
+  <img src="sections/E-commerce/product.png" width="32%"/>
+  <img src="sections/E-commerce/product-2.png" width="32%"/>
+  <img src="sections/E-commerce/cart.png" width="32%"/>
+</p>
+
+---
+
+### Azan App
 Prayer times app with Adhan notifications and Qibla direction.  
 - 📌 Flutter, Native Android Integration, Notifications
 - 📷 Screenshots:  
