@@ -13,6 +13,22 @@
 ---
 
 ## 🔥 Featured Projects
+
+### 🕌 Gymier Platform
+A gym management system (attendance, subscriptions, and progress tracking).  
+- 📌 Flutter, Firebase, Firestore Sync, Hive Cache  
+- 📷 Screenshots:  
+
+<p align="center">
+  <img src="sections/gymier-platform/sign-in.png" width="100%"/>
+</p>
+<p align="center">
+  <img src="sections/gymier-platform/reg-requets.png" width="50%"/>
+  <img src="sections/gymier-platform/reg-details.png" width="50%"/>
+</p>
+
+---
+
 ### 🕌 Azan App
 Prayer times app with Adhan notifications and Qibla direction.  
 - 📌 Flutter, Native Android Integration, Notifications
@@ -24,19 +40,6 @@ Prayer times app with Adhan notifications and Qibla direction.
 </p>
 
 - [🔗 View on GitHub](https://github.com/ma-abdelazem/azan-app-flutter)
-
-### 🕌 Gymier Platform
-A gym management system (attendance, subscriptions, and progress tracking).  
-- 📌 Flutter, Firebase, Firestore Sync, Hive Cache  
-- 📷 Screenshots:  
-
-<p float="left">
-  <img src="sections/gymier-platform/sign-in.png" width="500"/>
-</p>
-<p float="left">
-  <img src="sections/gymier-platform/reg-requets.png" width="300"/>
-  <img src="sections/gymier-platform/reg-details.png" width="300"/>
-</p>
 
 ---
 
