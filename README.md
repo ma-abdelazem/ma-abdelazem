@@ -42,6 +42,17 @@ A gym management system (attendance, subscriptions, and progress tracking).
 
 ---
 
+### 🕌 Gymier Trainee
+- 📷 Screenshots:  
+
+<p align="center">
+  <img src="sections/gymier-trainee/gym-profile.png" width="32%"/>
+  <img src="sections/gymier-trainee/home-2.png" width="32%"/>
+  <img src="sections/gymier-trainee/map.png" width="32%"/>
+</p>
+
+---
+
 ### 🕌 Azan App
 Prayer times app with Adhan notifications and Qibla direction.  
 - 📌 Flutter, Native Android Integration, Notifications
