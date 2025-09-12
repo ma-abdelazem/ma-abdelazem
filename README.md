@@ -23,8 +23,8 @@ A gym management system (attendance, subscriptions, and progress tracking).
   <img src="sections/gymier-platform/sign-in.png" width="100%"/>
 </p>
 <p align="center">
-  <img src="sections/gymier-platform/reg-requets.png" width="50%"/>
-  <img src="sections/gymier-platform/reg-details.png" width="50%"/>
+  <img src="sections/gymier-platform/reg-requets.png" width="45%"/>
+  <img src="sections/gymier-platform/reg-details.png" width="45%"/>
 </p>
 
 ---
