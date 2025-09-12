@@ -107,6 +107,7 @@ Prayer times app with Adhan notifications and Qibla direction.
 ---
 
 ### 📫 Connect with Me
+- Mobile: 01023252548 
 - Email: ma7.abdelazem@gmail.com  
 - GitHub: https://github.com/ma-abdelazem  
 
