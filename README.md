@@ -29,12 +29,12 @@ A gym management system (attendance, subscriptions, and progress tracking).
 <p align="center">
   <img src="sections/gymier-gym/gymier-profile.png" width="100%"/>
 </p>
-<p float="left">
+<p align="center">
   <img src="sections/gymier-gym/splash.png" width="32%"/>
   <img src="sections/gymier-gym/dashboard.png" width="32%"/>
   <img src="sections/gymier-gym/messages.png" width="32%"/>
 </p>
-<p float="left">
+<p align="center">
   <img src="sections/gymier-gym/subs.png" width="32%"/>
   <img src="sections/gymier-gym/sub_manage_1.png" width="32%"/>
   <img src="sections/gymier-gym/sub_manage_2.png" width="32%"/>
@@ -46,9 +46,9 @@ A gym management system (attendance, subscriptions, and progress tracking).
 - 📷 Screenshots:  
 
 <p align="center">
-  <img src="sections/gymier-trainee/gym-profile.png" width="32%"/>
   <img src="sections/gymier-trainee/home-2.png" width="32%"/>
   <img src="sections/gymier-trainee/map.png" width="32%"/>
+  <img src="sections/gymier-trainee/gym-profile.png" width="32%"/>
 </p>
 
 ---
