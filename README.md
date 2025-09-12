@@ -23,8 +23,8 @@ A gym management system (attendance, subscriptions, and progress tracking).
   <img src="sections/gymier-platform/sign-in.png" width="100%"/>
 </p>
 <p align="center">
-  <img src="sections/gymier-platform/reg-requets.png" width="49%"/>
-  <img src="sections/gymier-platform/reg-details.png" width="49%"/>
+  <img src="sections/gymier-platform/reg-requets.png" width="49.5%"/>
+  <img src="sections/gymier-platform/reg-details.png" width="49.5%"/>
 </p>
 
 ---
@@ -34,9 +34,9 @@ Prayer times app with Adhan notifications and Qibla direction.
 - 📌 Flutter, Native Android Integration, Notifications
 - 📷 Screenshots:  
 
-<p align="center">
-  <img src="sections/azan-app/home.png" width="49"/>
-  <img src="sections/azan-app/azan-settings.png" width="49"/>
+<p float="left">
+  <img src="sections/azan-app/home.png" width="250"/>
+  <img src="sections/azan-app/azan-settings.png" width="250"/>
 </p>
 
 - [🔗 View on GitHub](https://github.com/ma-abdelazem/azan-app-flutter)
