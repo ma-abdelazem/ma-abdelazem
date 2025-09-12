@@ -6,21 +6,6 @@
 
 ## 🔥 Featured Projects
 
-### Gymier Platform
-A gym management system (attendance, subscriptions, and progress tracking).  
-- 📌 Flutter, Firebase, Firestore Sync, Hive Cache  
-- 📷 Screenshots:  
-
-<p align="center">
-  <img src="sections/gymier-platform/sign-in.png" width="100%"/>
-</p>
-<p align="center">
-  <img src="sections/gymier-platform/reg-requets.png" width="49.5%"/>
-  <img src="sections/gymier-platform/reg-details.png" width="49.5%"/>
-</p>
-
----
-
 ### Gymier Gym
 A gym management system (attendance, subscriptions, and progress tracking).  
 - 📌 Flutter, Firebase, Firestore Sync, Hive Cache  
@@ -43,12 +28,32 @@ A gym management system (attendance, subscriptions, and progress tracking).
 ---
 
 ### Gymier Trainee
-- 📷 Screenshots:  
+Helps trainees find nearby gyms and classes, manage their memberships, and stay on track with their fitness journey.
+- 📌 Flutter, Goolgle Map, Firebase, Firestore Sync, Hive Cache  
+- 📷 Screenshots: 
 
+<p align="center">
+  <img src="sections/gymier-trainee/cover.jpeg" width="100%"/>
+</p>
 <p align="center">
   <img src="sections/gymier-trainee/home-2.png" width="32%"/>
   <img src="sections/gymier-trainee/map.png" width="32%"/>
   <img src="sections/gymier-trainee/gym-profile.png" width="32%"/>
+</p>
+
+---
+
+### Gymier Platform
+Enables gym owners to manage gyms, trainers, and trainees efficiently with full control over operations.  
+- 📌 Flutter, Web app, Firebase, Firestore Sync, Hive Cache  
+- 📷 Screenshots:  
+
+<p align="center">
+  <img src="sections/gymier-platform/sign-in.png" width="100%"/>
+</p>
+<p align="center">
+  <img src="sections/gymier-platform/reg-requets.png" width="49.5%"/>
+  <img src="sections/gymier-platform/reg-details.png" width="49.5%"/>
 </p>
 
 ---
