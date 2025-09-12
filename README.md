@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mahmoud Abdelazem
 
-💻 **Flutter Developer | IT Specialist | System Support Engineer**
+💻 **Flutter & Mobile Developer | Software Engineer | System Support Engineer | IT Specialist**
 
 ---
 
@@ -12,33 +12,26 @@
 
 ---
 
-### 🛠️ Tech Stack
-- **Mobile Development**: Flutter, Dart  
-- **Backend**: Firebase, Node.js, MongoDB  
-- **Tools**: Git, GitHub, VS Code, Android Studio  
-- **Other Skills**: System Administration, Networking, IT Support  
-
----
-
-### 📌 Featured Projects
-- **Azan – Prayer Time App**  
-  📱 Accurate prayer times with customizable Adhan notifications.  
-
-- **Gymier – Gym Management App (Demo)**  
-  🏋️ A system to manage gym memberships, attendance, and training plans.
-
----
-
-## 📱 My Projects
-
-### Azan – Prayer Time App
-Accurate daily prayer times with customizable Adhan notifications.  
-[🔗 View on GitHub](https://github.com/ma-abdelazem/azan-app-flutter)
+## 🔥 Featured Projects
+### 🕌 Azan App
+Prayer times app with Adhan notifications and Qibla direction.  
+- 📌 Flutter, Native Android Integration, Notifications
+- 📷 Screenshots:  
 
 <p float="left">
   <img src="sections/azan-app/home.png" width="250"/>
   <img src="sections/azan-app/azan-settings.png" width="250"/>
 </p>
+
+- [🔗 View on GitHub](https://github.com/ma-abdelazem/azan-app-flutter)
+
+---
+
+### 🛠️ Tech Stack
+- **Mobile Development**: Flutter, Dart  
+- **Backend**: Firebase, Node.js, MongoDB  
+- **Tools**: Git, GitHub, VS Code, Android Studio  
+- **Other Skills**: System Administration, Networking, IT Support 
 
 ---
 
