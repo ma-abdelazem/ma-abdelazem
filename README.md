@@ -6,9 +6,9 @@
 
 ## 🔥 Featured Projects
 
-### Gymier Gym
+### Gymier Plus
 A gym management system (attendance, subscriptions, and progress tracking).  
-- 📌 Flutter, Firebase, Firestore Sync, Hive Cache  
+- 📌 Flutter, Firebase, Firestore Sync, Hive Cache, Google maps integration, Clean architecture , BloC, GetX
 - 📷 Screenshots:  
 
 <p align="center">
@@ -27,9 +27,9 @@ A gym management system (attendance, subscriptions, and progress tracking).
 
 ---
 
-### Gymier Trainee
+### Gymier
 Helps trainees find nearby gyms and classes, manage their memberships, and stay on track with their fitness journey.
-- 📌 Flutter, Goolgle Map, Firebase, Firestore Sync, Hive Cache  
+- 📌 Flutter, Goolgle Map, Firebase, Firestore Sync, Hive Cache, Google maps integration, Clean architecture , BloC, GetX
 - 📷 Screenshots: 
 
 <p align="center">
@@ -45,7 +45,7 @@ Helps trainees find nearby gyms and classes, manage their memberships, and stay 
 
 ### Gymier Platform
 Enables gym owners to manage gyms, trainers, and trainees efficiently with full control over operations.  
-- 📌 Flutter, Web app, Firebase, Firestore Sync, Hive Cache  
+- 📌 Flutter, Web app, Firebase, Firestore Sync, Hive Cache, Clean architecture , BloC, GetX
 - 📷 Screenshots:  
 
 <p align="center">
@@ -60,7 +60,7 @@ Enables gym owners to manage gyms, trainers, and trainees efficiently with full 
 
 ### E-commerce App
 Handmade products e-commerce app with order management and online payment integration.  
-- 📌 Flutter, Firebase, Firestore Sync, Hive Cache  
+- 📌 Flutter, Firebase, Firestore Sync, Hive Cache, Clean architecture , BloC, GetX
 - 📷 Screenshots:  
 
 <p align="center">
@@ -92,7 +92,7 @@ Prayer times app with Adhan notifications and Qibla direction.
 
 ### 👨‍💻 About Me
 - 🚀 Passionate about building cross-platform apps with **Flutter**  
-- 📱 Focused on **clean architecture, state management, and Firebase**  
+- 📱 Focused on **clean architecture, state management, BloC and Firebase**  
 - 🔧 12+ years of IT experience (System Admin, IT Specialist, Technical Support)  
 - 🌍 Based in **Egypt**, open to remote opportunities  
 
@@ -101,7 +101,7 @@ Prayer times app with Adhan notifications and Qibla direction.
 ### 🛠️ Tech Stack
 - **Mobile Development**: Flutter, Dart  
 - **Backend**: Firebase, Node.js, MongoDB  
-- **Tools**: Git, GitHub, VS Code, Android Studio  
+- **Tools**: Git, GitHub, VS Code, Android Studio, MacBoook 
 - **Other Skills**: System Administration, Networking, IT Support 
 
 ---
